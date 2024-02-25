@@ -45,14 +45,3 @@
 [![Email](https://img.shields.io/badge/-mail-blue?style=flat&logo=maildotru&logoColor=white)](mailto:mosolova.viktoriya@mail.ru)
 [![VK](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/mosolova2003)
 
-
-### GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViktoriyaMosolova&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViktoriyaMosolova&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViktoriyaMosolova&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViktoriyaMosolova&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViktoriyaMosolova&theme=dracula&utcOffset=8)
