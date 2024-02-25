@@ -47,14 +47,12 @@
 
 
 ### GitHub Stats
-<p align="left">
-    <a href="http://www.github.com/ViktoriyaMosolova">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=ViktoriyaMosolova&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ViktoriyaMosolova's GitHub stats" />
-    </a>
-    <a href="http://www.github.com/ViktoriyaMosolova">
-        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ViktoriyaMosolova&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-    </a>
-    <a href="https://github.com/ViktoriyaMosolova">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktoriyaMosolova&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-    </a>
-</p>      
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViktoriyaMosolova&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViktoriyaMosolova&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViktoriyaMosolova&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViktoriyaMosolova&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViktoriyaMosolova&theme=dracula&utcOffset=8)
