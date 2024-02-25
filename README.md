@@ -39,22 +39,22 @@
 [![Matlab](https://img.shields.io/badge/Matlab-ffffff?style=for-the-badge&logo=matlab)](https://www.mathworks.com/products/matlab.html)
 [![UML](https://img.shields.io/badge/UML-ffffff?style=for-the-badge&logo=uml)](https://ru.wikipedia.org/wiki/UML)
 </p>
-                    
-### GitHub Stats
-<p align="left">
-<a href="http://www.github.com/ViktoriyaMosolova">
-    <img src="https://github-readme-stats.vercel.app/api?username=ViktoriyaMosolova&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ViktoriyaMosolova's GitHub stats" /></a>
-
-<a href="http://www.github.com/ViktoriyaMosolova">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViktoriyaMosolova&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="https://github.com/ViktoriyaMosolova">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktoriyaMosolova&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-</p>
 
 ## :mailbox: Follow Me 
 [![Telegram](https://img.shields.io/badge/-mjollror-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mjollror) 
 [![Email](https://img.shields.io/badge/-mail-blue?style=flat&logo=maildotru&logoColor=white)](mailto:mosolova.viktoriya@mail.ru)
 [![VK](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/mosolova2003)
+
+
+### GitHub Stats
+<p align="left">
+    <a href="http://www.github.com/ViktoriyaMosolova">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=ViktoriyaMosolova&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ViktoriyaMosolova's GitHub stats" />
+    </a>
+    <a href="http://www.github.com/ViktoriyaMosolova">
+        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ViktoriyaMosolova&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    </a>
+    <a href="https://github.com/ViktoriyaMosolova">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktoriyaMosolova&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </a>
+</p>      
